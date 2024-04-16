@@ -1,0 +1,52 @@
+{
+  "namespace": "org.example",
+  "name": "PowerRecord",
+  "type": "record",
+  "fields": [
+    {
+      "name": "Date",
+      "type": "string",
+      "default": ""
+    },
+    {
+      "name": "Time",
+      "type": "string",
+      "default": ""
+    },
+    {
+      "name": "Global_active_power",
+      "type": "float",
+      "default": 0.0
+    },
+    {
+      "name": "Global_reactive_power",
+      "type": "float",
+      "default": 0.0
+    },
+    {
+      "name": "Voltage",
+      "type": "float",
+      "default": 0.0
+    },
+    {
+      "name": "Global_intensity",
+      "type": "float",
+      "default": 0.0
+    },
+    {
+      "name": "Sub_metering_1",
+      "type": "float",
+      "default": 0.0
+    },
+    {
+      "name": "Sub_metering_2",
+      "type": "float",
+      "default": 0.0
+    },
+    {
+      "name": "Sub_metering_3",
+      "type": "float",
+      "default": 0.0
+    }
+  ]
+}

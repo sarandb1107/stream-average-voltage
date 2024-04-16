@@ -1,0 +1,7 @@
+/home/administrator/stream-task/src/main/java/org/example/StreamsApplication.java
+/home/administrator/stream-task/src/main/java/org/example/KafkaStreamsApp.java
+/home/administrator/stream-task/src/main/java/org/example/EventTimestampExtractor.java
+/home/administrator/stream-task/src/main/java/org/example/Main.java
+/home/administrator/stream-task/src/main/java/org/example/Producer.java
+/home/administrator/stream-task/target/generated/avro/org/example/VoltageAggregate.java
+/home/administrator/stream-task/target/generated/avro/org/example/PowerRecord.java

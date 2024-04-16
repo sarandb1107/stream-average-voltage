@@ -1,0 +1,9 @@
+org/example/VoltageAggregate.class
+org/example/Producer.class
+org/example/VoltageAggregate$Builder.class
+org/example/PowerRecord$1.class
+org/example/EventTimestampExtractor.class
+org/example/VoltageAggregate$1.class
+org/example/PowerRecord$Builder.class
+org/example/StreamsApplication.class
+org/example/PowerRecord.class

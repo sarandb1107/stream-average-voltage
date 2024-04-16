@@ -1,0 +1,15 @@
+{
+  "namespace": "org.example",
+  "type": "record",
+  "name": "VoltageAggregate",
+  "fields": [
+    {
+      "name": "count",
+      "type": "int"
+    },
+    {
+      "name": "sum",
+      "type": "double"
+    }
+  ]
+}
